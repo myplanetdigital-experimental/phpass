@@ -1,0 +1,10 @@
+This is a portable public domain password hashing framework for use in PHP
+applications.
+
+This is an exact copy of the phpass source code from http://www.openwall.com,
+but if you're worried about authenticity, you might want to just download the
+original from http://www.openwall.com/phpass/.  I created this project on
+GitHub so that it can be used as a git submodule in other projects.
+
+-- Ryan Park
+August 2010
